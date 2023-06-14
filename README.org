@@ -1,0 +1,9 @@
+* Clump
+
+A collection of trees for a variety of purposes.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/robert-strandh/Clump.git |
+| commit  | 1ea4dba                                         |
+| systems | clump                                           |
+|---------+-------------------------------------------------|
